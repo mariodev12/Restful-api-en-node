@@ -6,7 +6,7 @@ const async = require('async');
 app.get('/upcoming', (req, res) => {
     async.times(2, (i, callback) => {
     var options = {
-        url: 'https://api.themoviedb.org/3/movie/upcoming?api_key=60635989a212412cfd15d67d0fa08f3d',
+        url: 'https://api.themoviedb.org/3/movie/upcoming?api_key=API_KEY',
         qs: {
             'language': 'en-US',
             'page': i+1,
