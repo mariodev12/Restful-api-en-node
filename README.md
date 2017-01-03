@@ -1,6 +1,3 @@
 # Restful-api-en-node
 
-Instalación:
-1.- Clona este repositorio.
-2.- Ejecuta npm install en la carpeta donde se encuentran los archivos.
-3.- A programar!
+Instalación: Clona este repositorio, ejecuta npm install en la carpeta donde se encuentran los archivos y a programar!
